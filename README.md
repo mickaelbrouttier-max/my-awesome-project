@@ -4,4 +4,6 @@ This awesome project is created to experiment git notions like clone, push and p
 
 changement
 
-voila ! 
+J'ai réussi à envoyer avec push ! je retente
+
+voila !
